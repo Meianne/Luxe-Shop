@@ -1,0 +1,17 @@
+Impala
+<img src="img/impala.jpg" alt="Chevrolet Impala 1967 noire">
+
+Xbox
+<img src="img/xbox.jpg" alt="X Box 360 noire">
+
+McBook PRO
+<img src="img/macbook.jpg" alt="Macbook Pro bleu">
+
+VTT Randonnée
+<img src="img/vtt.jpg" alt="VTT randonnée rouge">
+
+Rolex 1968
+<img src="img/rolex1968.jpg" alt="Montre Rolex 1968 Or blanc et or">
+
+A Blue Dress
+<img src="img/dress.jpg" alt="Robe bleue broderie fil d'argent">
